@@ -1,0 +1,71 @@
+﻿body {
+    font-family: Gadugi;
+    color: black;
+    font-size: 150%;
+    margin: 0;
+    overflow: hidden;
+}
+form {
+    background-color: #f1f1f1;
+    box-shadow: 2px 5px 8px #aeaeae;
+    width: 30%;
+    margin: 0 auto !important;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 5px;
+    padding: 15px;
+}
+.menu {
+    /*background-color: #0c0c0c;*/
+    color:white !important;
+    /*width: 100%;*/
+    height: 50px;
+}
+.save {
+    background-color: #82b9fe;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px auto;
+    width: 100%;
+}
+.background_all {
+    background-image: url('רכבים/logo.jpg');
+    background-size: 100%;
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+.inpt-ditales {
+    border: 1px solid #aeaeae;
+    background: white;
+    border-radius: 3px;
+    padding: 10px;
+    margin-top:5px;
+    width:100%;
+}
+.label_details{
+    width:80%;
+    margin: 0 auto;
+}
+.content {
+    margin-top: 100px;
+}
+.wrap_detail {
+    margin-top:10px;
+}
+.thanks {
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #feffa0;
+    font-weight: bold;
+    margin-top: 400px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+  
+
